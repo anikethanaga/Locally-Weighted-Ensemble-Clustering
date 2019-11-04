@@ -1,0 +1,26 @@
+metadata_version: 1
+name: 'Copy of MATLAB Code and Data for: Locally Weighted Ensemble Clustering'
+description: "In this package, we provide the Matlab source code and experimental
+  data for the ensemble clustering algorithms in our IEEE TCYB paper. If you find
+  the code and data useful for your research, please cite the paper below. \n\nDong
+  Huang, Chang-Dong Wang, Jian-Huang Lai. Locally Weighted Ensemble Clustering. IEEE
+  Transactions on Cybernetics, accepted, 2017. DOI: 10.1109/TCYB.2017.2702343"
+tags:
+- ensemble-clustering
+- consensus-clustering
+- entropy
+- local-weighting
+- cluster-uncertainty-estimation
+- weighted-ensemble-clustering
+authors:
+- name: Dong Huang
+  affiliations:
+  - name: South China Agricultural University
+- name: Chang-Dong Wang
+  affiliations:
+  - name: Sun Yat-sen University
+- name: Jian-Huang Lai
+  affiliations:
+  - name: Sun Yat-sen University
+corresponding_contributor:
+  name: Dong Huang
